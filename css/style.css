@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Pinyon Script", Arial, serif;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -843,8 +843,8 @@ form label {
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
   font-size: 100px;
-  line-height: 1.5;
-  font-family: "Satisfy", Arial, serif;
+  /* line-height: 1.5; */
+  font-family: "Pinyon Script", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h1,
@@ -857,21 +857,21 @@ form label {
   #fh5co-header .display-tc h1,
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
-    font-size: 30px;
+    font-size: 70px;
   }
 }
 #fh5co-header .display-tc h2,
 #fh5co-counter .display-tc h2,
 .fh5co-cover .display-tc h2 {
   font-size: 20px;
-  /* line-height: 1.5;
-  margin-bottom: 30px; */
+  line-height: 1.5;
+  margin-top: 70px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .display-tc h2,
   #fh5co-counter .display-tc h2,
   .fh5co-cover .display-tc h2 {
-    font-size: 16px;
+    font-size: 30px;
   }
 }
 #fh5co-header .display-tc .btn,
@@ -1071,7 +1071,7 @@ form label {
   }
 }
 .couple-half h3 {
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Pinyon Script", Arial, serif;
   color: #d20305;
   font-size: 30px;
 }
@@ -1188,7 +1188,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: #d20305;
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Pinyon Script", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
@@ -1205,7 +1205,7 @@ form label {
   font-size: 13px;
   letter-spacing: 2px;
   font-weight: 600;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(255, 255, 255, 0.4);
 }
 
 #fh5co-testimonial .wrap-testimony {
@@ -1254,6 +1254,7 @@ form label {
 }
 .maps{
   align-items: center;
+  width: 100%;
 }
 @media screen and (max-width: 992px) {
   #fh5co-testimonial .wrap-testimony .testimony-slide blockquote {
@@ -1888,7 +1889,7 @@ form label {
 }
 
 .splash-text {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Pinyon Script', cursive;
     font-size: 24px;
     color: #333;
     margin-top: 20px;
@@ -1918,7 +1919,7 @@ form label {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Pinyon Script', cursive;
   overflow: hidden;
   cursor: pointer;
 }
@@ -1944,7 +1945,7 @@ form label {
   font-size: 36px;
   color: #d20305;
   margin: 0 0 10px;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Pinyon Script', cursive;
 }
 
 .splash-subtitle {
