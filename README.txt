@@ -1,62 +1,22 @@
+# 17th Birthday Invitation 🎂
 
-TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+This is a **17th Birthday Invitation** web page built using **HTML and SCSS**. 
+The project provides a beautifully designed invitation with an interactive and responsive layout.  
 
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+## Features  
+- 🎨 Stylish and modern invitation design  
+- 🎶 Background music for a festive atmosphere  
+- 📱 Fully responsive for mobile and desktop  
+- 📍 Interactive Google Maps integration for venue location  
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+## Technologies Used  
+- **HTML** - For structuring the invitation page  
+- **SCSS** - For styling with better maintainability  
+- **JavaScript** - For interactive elements like countdown timer and music player  
+- **Google Maps API** - To display the event location  
 
+## Result 🏆
+![Image](https://github.com/user-attachments/assets/109f55fa-8597-4a27-8ca0-628fb8649ef3)
 
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Google Map
-http://maps.google.com/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-SimplyCountDown JS
-http://vincentloy.github.io/simplyCountdown.js/
-
-Demo Images:
-http://unsplash.com
-
+## Author 👨‍💻 
+Developed by **Margareta Valencia** 💅	 
